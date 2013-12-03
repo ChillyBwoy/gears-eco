@@ -31,3 +31,7 @@ If you use Gears in your Django project, add this code to your settings file:
     GEARS_COMPILERS = {
         '.eco': 'gears_eco.EcoCompiler',
     }
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ChillyBwoy/gears-eco/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
